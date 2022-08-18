@@ -1,0 +1,10 @@
+﻿  Snake.cpp
+C:\Users\winmax\Desktop\C++\SnakeGameC++\Snake.cpp(79,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\winmax\Desktop\C++\SnakeGameC++\Snake.cpp(84,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\winmax\Desktop\C++\SnakeGameC++\Snake.cpp(86,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\winmax\Desktop\C++\SnakeGameC++\Snake.cpp(94,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\winmax\Desktop\C++\SnakeGameC++\Snake.cpp(107,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\winmax\Desktop\C++\SnakeGameC++\Snake.cpp(145,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\winmax\Desktop\C++\SnakeGameC++\Snake.cpp(169,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\winmax\Desktop\C++\SnakeGameC++\Snake.cpp(193,7): warning C4551: function call missing argument list
+  SnakeGameC++.vcxproj -> C:\Users\winmax\Desktop\C++\SnakeGameC++\Debug\SnakeGameC++.exe
