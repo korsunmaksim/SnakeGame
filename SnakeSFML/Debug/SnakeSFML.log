@@ -1,0 +1,11 @@
+﻿  SnakeGame.cpp
+C:\Users\winmax\Desktop\C++\SnakeSFML\SnakeGame.cpp(110,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\winmax\Desktop\C++\SnakeSFML\SnakeGame.cpp(162,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\winmax\Desktop\C++\SnakeSFML\SnakeGame.cpp(162,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\winmax\Desktop\C++\SnakeSFML\SnakeGame.cpp(176,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\winmax\Desktop\C++\SnakeSFML\SnakeGame.cpp(176,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\winmax\Desktop\C++\SnakeSFML\SnakeGame.cpp(179,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\winmax\Desktop\C++\SnakeSFML\SnakeGame.cpp(179,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\winmax\Desktop\C++\SnakeSFML\SnakeGame.cpp(184,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\winmax\Desktop\C++\SnakeSFML\SnakeGame.cpp(184,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SnakeSFML.vcxproj -> C:\Users\winmax\Desktop\C++\SnakeSFML\Debug\SnakeSFML.exe
